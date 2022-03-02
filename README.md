@@ -8,4 +8,4 @@ ___
 ___
 - Get in touch with me: 
   - 📧 email: v.sob88@gmail.com
-  - 💬 telegram: t.me/sblvsk
+  - 💬 telegram: https://t.me/sblvsk
