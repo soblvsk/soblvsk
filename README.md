@@ -7,5 +7,5 @@ ___
 - 📖 I am currently studying at university to become a programmer, and I intend to excel in the IT field.
 ___
 - Get in touch with me: 
-  - 📧 email: v.sob88@gmail.com
+  - 📧 email: SobVitalya@yandex.ru
   - 💬 telegram: https://t.me/sblvsk
