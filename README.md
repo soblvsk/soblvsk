@@ -241,12 +241,10 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <h2 align="left" id="skills">:fire: My statistics:</h2>
 
-<div>
-  <a href="#title">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=soblvsk&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="#title">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soblvsk&show_icons=true&locale=en&layout=compact&theme=react" alt="TopLangs" />
-  </a>
-</div>
+<a href="#title">
+  <img src="https://github-readme-stats.vercel.app/api?username=soblvsk&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<a href="#title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soblvsk&show_icons=true&locale=en&layout=compact&theme=react" alt="TopLangs" />
+</a>
 
