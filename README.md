@@ -108,6 +108,12 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       </a>
       <br>Node JS
     </td>
+     <td align="center" width="96"> 
+      <a href="skills" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
     <td align="center" width="96">
       <a href="#skills">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
@@ -176,12 +182,6 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <table width='100'>
   <tr>
-    <td align="center" width="96"> 
-      <a href="skills" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
     <td align="center" width="96">
       <a href="#skills">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48"                alt="TypeScript" />
