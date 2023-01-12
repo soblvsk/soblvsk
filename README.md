@@ -59,6 +59,12 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     </td>
      <td align="center" width="96">
       <a href="#skills">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48"                alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+      <a href="#skills">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
@@ -182,12 +188,6 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <table width='100'>
   <tr>
-    <td align="center" width="96">
-      <a href="#skills">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48"                alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
     <td align="center" width="96">
       <a href="#skills">
          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
