@@ -71,15 +71,9 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     </td>
     <td align="center" width="96">
       <a href="#skills">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#skills">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
+      <br>Webpack
     </td>
   </tr>
 </table>
@@ -180,6 +174,37 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
+    </td>
+  </tr>
+</table>
+
+>In process
+
+<table width='100'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#skills">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
     </td>
   </tr>
 </table>
