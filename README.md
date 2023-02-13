@@ -249,6 +249,12 @@ I am a FRONT-END DEVELOPER <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       </a>
       <br>SQLite
     </td>
+    <td align="center" width="96">
+      <a href="#skills">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
   </tr>
 </table>
 
