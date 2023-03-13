@@ -17,9 +17,7 @@
     :wave: Hello, I am Vitaliy
   </h1>
 </div>
-<div id="main" align="center">
-  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="500" height="500"/>
-</div>
+
 
 <h2 align="left" id="about">:newspaper_roll: &nbsp;About Me:</h2>
 
