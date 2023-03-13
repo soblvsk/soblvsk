@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <p align="center"><img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/></p>
   <p id="badges">
     <a href="https://github.com/soblvsk">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
