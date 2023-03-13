@@ -1,3 +1,14 @@
+<p align="center">
+  <samp>
+   README file modification in the process of...<br/>
+    <a href="">Website</a> .
+    <a href=""></a> .
+    <a href=""></a> <br/>
+     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"  alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js"  alt="Vue.js" />
+  </samp>
+</p>
+
 <div id="header" align="center">
   <p id="badges">
     <a href="https://github.com/soblvsk">
