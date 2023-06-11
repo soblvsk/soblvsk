@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    I am a <strong>Front-end Developer</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnoyarsk. <br/>
+    I am a <strong>Frontend Developer</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnoyarsk. <br/>
     Who likes to create beautiful and simple web applications. <br/>
     Currently studying <a href="https://vuejs.org/">Vue.js</a> and <a href="https://nuxt.com">Nuxt</a>. <br/>
     I am ready to contribute to the development of the IT sector in Russia. </br>
